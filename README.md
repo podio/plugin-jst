@@ -9,6 +9,16 @@ SystemJS's underscore template `jst` loading plugin.
 import './sample.jst!'
 ```
 
+It requires to have `underscore` installed as a peer dependency, although you can also use it for `lodash` as long you alias it to `underscore` in your configuration, i.e.:
+
+```javascript
+System.config({
+	map: {
+		underscore: 'lodash'
+	}
+})
+```
+
 ## Testing
 
 ```javascript
