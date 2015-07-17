@@ -5,7 +5,7 @@ System.config({
 	'baseURL': '.',
 	'map': {
 		'jst': 'jst.js',
-		'underscore': 'node_modules/underscore/underscore.js'
+		'underscore': './node_modules/underscore/underscore.js'
 	}
 });
 
