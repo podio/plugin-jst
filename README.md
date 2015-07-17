@@ -1,6 +1,9 @@
 jst
 ===========
 
+[![npm version](https://badge.fury.io/js/plugin-jst.svg)](http://badge.fury.io/js/plugin-jst)
+[![Build Status](https://travis-ci.org/podio/plugin-jst.svg?branch=master)](https://travis-ci.org/podio/plugin-jst)
+
 SystemJS's underscore template `jst` loading plugin.
 
 ## How to use
