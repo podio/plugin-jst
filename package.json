@@ -1,0 +1,28 @@
+{
+  "name": "plugin-jst",
+  "version": "0.1.0",
+  "description": "Underscore JST loader plugin",
+  "main": "jst.js",
+  "scripts": {
+    "test": "mocha --compilers js:mocha-babel"
+  },
+  "keywords": [
+    "jspm",
+    "jst",
+    "loader",
+    "plugin"
+  ],
+  "author": "Albert Fernández <albert@podio.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "babel": "5.6.23",
+    "babel-runtime": "5.7.0",
+    "mocha": "2.2.5",
+    "mocha-babel": "3.0.0",
+    "systemjs": "0.18.4",
+    "unexpected": "9.2.1"
+  }
+}
