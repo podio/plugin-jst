@@ -15,3 +15,7 @@ import './sample.jst!'
 $ npm install
 $ npm test
 ```
+
+## License
+
+[MIT](https://github.com/podio/plugin-jst/blob/master/LICENSE)
