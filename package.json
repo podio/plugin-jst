@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha --compilers js:mocha-babel"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/podio/plugin-jst.git"
+  },
   "keywords": [
     "jspm",
     "jst",
@@ -23,6 +27,7 @@
     "mocha": "2.2.5",
     "mocha-babel": "3.0.0",
     "systemjs": "0.18.4",
-    "unexpected": "9.2.1"
+    "unexpected": "9.2.1",
+    "underscore": "*"
   }
 }
