@@ -22,12 +22,12 @@
     "underscore": "*"
   },
   "devDependencies": {
-    "babel": "5.6.23",
-    "babel-runtime": "5.7.0",
-    "mocha": "2.2.5",
+    "babel": "5.8.23",
+    "babel-runtime": "5.8.25",
+    "mocha": "2.3.3",
     "mocha-babel": "3.0.0",
-    "systemjs": "0.18.4",
-    "unexpected": "9.2.1",
+    "systemjs": "0.19.4",
+    "unexpected": "9.16.1",
     "underscore": "*"
   }
 }
