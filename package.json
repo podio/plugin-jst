@@ -24,7 +24,7 @@
   "devDependencies": {
     "babel": "6.1.18",
     "babel-runtime": "6.1.4",
-    "mocha": "2.3.3",
+    "mocha": "2.3.4",
     "mocha-babel": "3.0.0",
     "systemjs": "0.19.5",
     "unexpected": "10.1.0",
