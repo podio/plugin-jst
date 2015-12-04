@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "babel": "6.1.18",
-    "babel-runtime": "6.1.4",
+    "babel-runtime": "6.3.13",
     "mocha": "2.3.4",
     "mocha-babel": "3.0.0",
     "systemjs": "0.19.5",
