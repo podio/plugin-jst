@@ -27,7 +27,7 @@
     "mocha": "2.3.4",
     "mocha-babel": "3.0.0",
     "systemjs": "0.19.9",
-    "unexpected": "10.4.0",
+    "unexpected": "10.5.0",
     "underscore": "*"
   }
 }
