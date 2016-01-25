@@ -22,7 +22,7 @@
     "underscore": "*"
   },
   "devDependencies": {
-    "babel": "6.1.18",
+    "babel": "6.3.26",
     "babel-runtime": "6.3.19",
     "mocha": "2.3.4",
     "mocha-babel": "3.0.0",
